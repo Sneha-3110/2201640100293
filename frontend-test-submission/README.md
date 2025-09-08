@@ -25,4 +25,7 @@ This is a **frontend-only implementation** that uses the browser's **localStorag
 - **Unique ID Generation**: Nanoid  
 - **Icons**: MUI Icons  
 
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/886e7d51-186c-4307-b337-d9bc071dfab6" />
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/9b18b735-6997-4469-a4ca-288bcb94322c" />
+
 
